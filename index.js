@@ -25,7 +25,7 @@ const MobilePos = ({ navigation }) => {
               resizeMode="contain"
             />
           </TouchableOpacity>
-        <Text>Hello World!!</Text>
+        <Text>Hello World!!v1.1.1.1</Text>
     </View>
   )
 }
