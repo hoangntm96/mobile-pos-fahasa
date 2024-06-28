@@ -3,7 +3,8 @@ import {
   TouchableOpacity,
   Text,
   View,
-  Dimensions
+  Dimensions,
+  Image
 } from 'react-native'
 export const backIcon = (require('./common/image/back-icon.png'))
 
